@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "41598024534",
+    "project_id": "runnerapp-bcd5b",
+    "storage_bucket": "runnerapp-bcd5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41598024534:android:f7e654a08794aac5c274f7",
+        "android_client_info": {
+          "package_name": "com.example.runner_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41598024534-70d865rq7vgqibi3gc88qb227d1uj5gr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK3Ud6slRLP8kGlU5jPcM2N-cssxzheBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41598024534-70d865rq7vgqibi3gc88qb227d1uj5gr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "41598024534-epqb9aliea9ldivn9qb6tv3pvjcsnrpt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.runnerApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
